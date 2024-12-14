@@ -140,6 +140,7 @@ TLDR для тех, кто рассматривает obsidian как замен
 - [LogSeq](https://logseq.com){:target="_blank"}. Модный на 2024 год oss инструмент, который продолжает идеи roam, плюс конкурирует с обсидианом, даже аналог canvas добавили. Пробовал сам, но не понравилось;
 - [DEVONthink](https://www.devontechnologies.com/apps/devonthink){:target="_blank"}. Не пользовался, но говорят, что там можно сделать что хочешь, даже развернуть zettelkasten. Только под мак;
 - [org-mode](https://orgmode.org){:target="_blank"}. Для сильных духом и тех, кто любит GNU и лисп. Если бы изначально использовал emacs, а не vim – остановился на org-mode;
+- [org-roam](https://www.orgroam.com/){:target="_blank"}. Менеджер связей между заметками org. В нем реализованы подходы из Roam Research на emacs. Он не супер простой в установке и первом запуске. Управлять связями в нем довольно удобно. Для него есть плагины, например, для рисования графа связей.
 - [howm](https://kaorahi.github.io/howm/){:target="_blank"}. Еще один mode для emacs, если бы не org-mode. Нишевая штука, которую придумал японец (документации не на японском не было до 2023 года). Подробнее лучше [почитать в документации](https://github.com/Emacs101/howm-manual){:target="_blank"};
 - [Zettel Notes](https://znotes.thedoc.eu.org){:target="_blank"}. Попытка сделать инструмент под zettelkasten. Не использовал;
 
