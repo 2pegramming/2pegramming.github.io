@@ -320,4 +320,3 @@ tags:
 - [PM tool, о котором никогда не слышал](https://www.gameplan.global){:target="_blank"} (нашел, пока ответ писал). Кажется, что если используете что-то другое, переехать на «нонейм» решение будет сложно;
 - [Плагин для редмайна](https://www.easyredmine.com/redmine-wbs-plugin){:target="_blank"} с похожей функциональностью;
 - Два плагина для джиры с похожим функционалом: [первый](https://marketplace.atlassian.com/apps/1216207/issue-links-viewer){:target="_blank"} и [второй](https://whiteboards.io){:target="_blank"};
-
