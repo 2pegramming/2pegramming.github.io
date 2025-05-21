@@ -210,3 +210,8 @@ Draw.io реализовали [аналогичный инструмент](htt
 - [en] [Статья из блога mongoDB, в которой рассказывается data modelling](https://www.mongodb.com/basics/data-modeling){:target="_blank"}. В тексте найдете описание подхода, виды представлений, описание процесса, советы и еще больше инструментов и так далее;
 - [en] [Статья о том, как сделать концептуальную модель](https://www.thoughtspot.com/data-trends/data-modeling/conceptual-data-model-examples){:target="_blank"}, какие виды есть и в чем ее преимущества;
 - [en] Серия статей о визуализации бд. По [ссылке третья часть](https://minimalmodeling.substack.com/p/visual-language-and-database-visualization){:target="_blank"}, где упоминаются разные приложения для визуализации: MySQL Workbench,  Anchor,  TLDraw и Arrows.app;
+
+**Update (21.05.2025)**
+
+- [en] [Self-hosted решение для визуализации схемы БД](https://github.com/chartdb/chartdb){:target="_blank"} (логическая или физическая модель). Включает «AI-export» для DDL скриптов что бы мигрировать между релиационными базами данных. Плюсом, схемы можно редактировать.
+- [en] Еще один визуализатор схемы данных, на этот раз это [drawDB](https://drawdb-io.github.io/docs/){:target="_blank"}, который визуализирует, экспортирует и так далее.
