@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://pepegramming.site/atom.xml" rel="self"/>
  <link href="http://pepegramming.site/"/>
- <updated>2025-05-21T14:04:48+03:00</updated>
+ <updated>2026-05-30T15:53:42+03:00</updated>
  <id>http://pepegramming.site</id>
  <author>
    <name>Anton Davydov</name>
@@ -2744,7 +2744,19 @@ command AddItemToCart { # AddItemToCart - название команды, ко�
   &lt;li&gt;&lt;a href=&quot;https://eyen.fr/taskheat/&quot; target=&quot;_blank&quot;&gt;Приложение за которым долго слежу&lt;/a&gt; и от которого были большие ожидания для персональных проектов, но так и не зашло. Возможно попробую еще раз через пару лет. Работает только на apple устройствах и больше о персональных проектах, т.е. конкурент для things3/todois/ticktick/etc;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.gameplan.global&quot; target=&quot;_blank&quot;&gt;PM tool, о котором никогда не слышал&lt;/a&gt; (нашел, пока ответ писал). Кажется, что если используете что-то другое, переехать на «нонейм» решение будет сложно;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.easyredmine.com/redmine-wbs-plugin&quot; target=&quot;_blank&quot;&gt;Плагин для редмайна&lt;/a&gt; с похожей функциональностью;&lt;/li&gt;
-  &lt;li&gt;Два плагина для джиры с похожим функционалом: &lt;a href=&quot;https://marketplace.atlassian.com/apps/1216207/issue-links-viewer&quot; target=&quot;_blank&quot;&gt;первый&lt;/a&gt; и &lt;a href=&quot;https://whiteboards.io&quot; target=&quot;_blank&quot;&gt;второй&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Два плагина для джиры с похожим функционалом: &lt;a href=&quot;https://marketplace.atlassian.com/apps/1216207/issue-links-viewer&quot; target=&quot;_blank&quot;&gt;первый&lt;/a&gt; и &lt;a href=&quot;https://whiteboards.io&quot; target=&quot;_blank&quot;&gt;второй&lt;/a&gt;;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;UPD (30.05.2026)&lt;/strong&gt; Еще дополнительные плагины для jira:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://issue-dependency-graph.com&quot; target=&quot;_blank&quot;&gt;Dependency Graph plugin for Jira Cloud&lt;/a&gt;;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://marketplace.atlassian.com/apps/1218391/dependency-map-for-jira-link-viewer&quot; target=&quot;_blank&quot;&gt;Dependency Map for Jira&lt;/a&gt;;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://marketplace.atlassian.com/apps/1234050/dependency-grid-for-managing-dependencies-in-jira&quot; target=&quot;_blank&quot;&gt;Dependency Grid for Managing Dependencies in Jira&lt;/a&gt; (выглядит ближе всего к описанному в статье подходу);&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://marketplace.atlassian.com/apps/1234319/visual-dependencies-work-item-link-map-for-jira&quot; target=&quot;_blank&quot;&gt;Visual Dependencies – Work Item Link Map for Jira&lt;/a&gt;;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://marketplace.atlassian.com/apps/1221796/dependency-mapper-tracking-planning-risk-mapping&quot; target=&quot;_blank&quot;&gt;Dependency Mapper (Tracking, Planning &amp;amp; Risk Mapping)&lt;/a&gt;;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://marketplace.atlassian.com/apps/1231953/clear-path-for-jira-visual-dependency-and-backlog-manager&quot; target=&quot;_blank&quot;&gt;Clear Path for Jira (Visual Dependency and Backlog Manager)&lt;/a&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>

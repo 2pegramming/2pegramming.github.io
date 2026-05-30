@@ -320,3 +320,11 @@ tags:
 - [PM tool, о котором никогда не слышал](https://www.gameplan.global){:target="_blank"} (нашел, пока ответ писал). Кажется, что если используете что-то другое, переехать на «нонейм» решение будет сложно;
 - [Плагин для редмайна](https://www.easyredmine.com/redmine-wbs-plugin){:target="_blank"} с похожей функциональностью;
 - Два плагина для джиры с похожим функционалом: [первый](https://marketplace.atlassian.com/apps/1216207/issue-links-viewer){:target="_blank"} и [второй](https://whiteboards.io){:target="_blank"};
+
+- **UPD (30.05.2026)** Еще дополнительные плагины для jira:
+  - [Dependency Graph plugin for Jira Cloud](https://issue-dependency-graph.com){:target="_blank"};
+  - [Dependency Map for Jira](https://marketplace.atlassian.com/apps/1218391/dependency-map-for-jira-link-viewer){:target="_blank"};
+  - [Dependency Grid for Managing Dependencies in Jira](https://marketplace.atlassian.com/apps/1234050/dependency-grid-for-managing-dependencies-in-jira){:target="_blank"} (выглядит ближе всего к описанному в статье подходу);
+  - [Visual Dependencies – Work Item Link Map for Jira](https://marketplace.atlassian.com/apps/1234319/visual-dependencies-work-item-link-map-for-jira){:target="_blank"};
+  - [Dependency Mapper (Tracking, Planning & Risk Mapping)](https://marketplace.atlassian.com/apps/1221796/dependency-mapper-tracking-planning-risk-mapping){:target="_blank"};
+  - [Clear Path for Jira (Visual Dependency and Backlog Manager)](https://marketplace.atlassian.com/apps/1231953/clear-path-for-jira-visual-dependency-and-backlog-manager){:target="_blank"}.
